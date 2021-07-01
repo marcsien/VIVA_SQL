@@ -1,0 +1,9 @@
+use Synaptic
+
+select * from ProductBatch pb where pb.Id = '8C966FFB-6B4B-4804-BFC5-742B8E899DCE'
+
+/*
+update ProductBatch
+set Param3 = 'KAO JOHN FRIEDA VIOLET CRUSH SHAMPOO LP2 250ML (A)' --bylo ' KAO JOHN FRIEDA VIOLET CRUSH SHAMPOO LP2 250ML (A)'
+where Id = '8C966FFB-6B4B-4804-BFC5-742B8E899DCE'
+*/
